@@ -28,5 +28,3 @@
 </div>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/Dev-LucasMendonca/Dev-LucasMendonca/output/snake-dark.svg" width="100%"/>
