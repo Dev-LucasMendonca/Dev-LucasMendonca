@@ -19,6 +19,7 @@
   <a href="mailto:p.lucas.santos.mendonca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
 </div>
 
 <br>
@@ -26,5 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-LucasMendonca&show_icons=true&theme=dracula"/>
 </div>
+![snake gif](https://github.com/Dev-LucasMendonca/Dev-LucasMendonca/blob/output/github-contribution-grid-snake.svg)
 
 <br>
