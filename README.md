@@ -27,6 +27,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-LucasMendonca&show_icons=true&theme=dracula"/>
 </div>
-![snake gif](https://github.com/Dev-LucasMendonca/Dev-LucasMendonca/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-LucasMendonca/Dev-LucasMendonca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-LucasMendonca/Dev-LucasMendonca/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-LucasMendonca/Dev-LucasMendonca/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
